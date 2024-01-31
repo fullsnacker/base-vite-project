@@ -10,10 +10,12 @@ Este repositorio sirve como un proyecto base con configuraciones predefinidas pa
 ## Cómo Empezar
 
 1. **Clonar el Repositorio:**
+   
    SSH: git clone git@github.com:fullsnacker/base-vite-project.git
+   
    HTTPS: git clone https://github.com/fullsnacker/base-vite-project.git
 
-2. **Instalar Dependencias:**
+3. **Instalar Dependencias:**
 
 cd base-vite-project
 yarn
@@ -22,17 +24,17 @@ yarn
 
 yarn run dev
 
-4. **Ejecutar Script de Linting::**
+4. **Ejecutar Script de Linting:**
 
 yarn lint
 
-_Este comando ejecutará ESLint en todo el código y mostrará cualquier problema que encuentre._
+(_Este comando ejecutará ESLint en todo el código y mostrará cualquier problema que encuentre._)
 
 5. **Ejecutar Script de Formateo:**
 
 yarn format
 
-_Este comando utilizará Prettier para formatear automáticamente el código según las reglas definidas._
+(_Este comando utilizará Prettier para formatear automáticamente el código según las reglas definidas._)
 
 ## Contribuciones
 
