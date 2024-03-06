@@ -10,12 +10,12 @@ Este repositorio sirve como un proyecto base con configuraciones predefinidas pa
 ## Cómo Empezar
 
 1. **Clonar el Repositorio:**
-   
+
    SSH: git clone git@github.com:fullsnacker/base-vite-project.git
-   
+
    HTTPS: git clone https://github.com/fullsnacker/base-vite-project.git
 
-3. **Instalar Dependencias:**
+2. **Instalar Dependencias:**
 
 cd base-vite-project
 yarn
